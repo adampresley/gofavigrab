@@ -1,0 +1,2 @@
+# gofavigrab
+Go Favicon Grabber
